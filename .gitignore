@@ -1,0 +1,3 @@
+# model weights download automatically
+*.pt
+__pycache__/
