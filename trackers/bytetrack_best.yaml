@@ -1,8 +1,0 @@
-# Copy of Ultralytics bytetrack.yaml with the TWO tracker changes that helped: match_thresh 0.9, fuse_score False
-tracker_type: bytetrack
-track_high_thresh: 0.25
-track_low_thresh: 0.1
-new_track_thresh: 0.25
-track_buffer: 30
-match_thresh: 0.9
-fuse_score: False
